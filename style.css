@@ -1,0 +1,53 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(234, 255, 236);
+
+}
+
+h1 {
+    margin-top: 1px;
+    margin-left: 1px;
+    margin-right: 1px;
+    padding: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    background-color: rgb(0, 153, 8);
+    font-size: 75px
+    ;
+}
+
+h3 {
+    padding: 3px;
+    margin-left: 1px;
+    margin-right: 1px;
+    color: rgb(0, 138, 46);
+    text-align: center;
+    font-size: 30px;
+    background-color: black;
+}
+
+main figure {
+    padding: 75px;
+    width: 75%;
+    text-align: center;
+    display: flex;
+}
+
+main figure img {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px black;
+}
+
+div {
+    font-size: 30px ;
+    margin-left: 350px;
+    margin-right: 350px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-shadow: 1px 1px 1px rgb(0, 59, 20);
+}
